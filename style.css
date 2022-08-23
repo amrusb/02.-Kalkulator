@@ -61,9 +61,26 @@
     margin-left: 7%;
     margin-bottom: 4%;
 }
-.credits p{
+.credits a{
     font-size: 10pt;
+    font-weight: 400;
+    text-decoration: none;
+}
+.credits a:link, .credits a:visited{
+    color:rgb(78, 73, 73);;
+}
+.credits a:hover, .credits a:active {
+    color: rgb(108, 166, 65);
+}
+.credits p, .credits p span{
+    font-size: 11pt;
     padding: 2px 0px;
+}
+.credits p span{
+    color: rgb(108, 166, 65);
+}
+.links p, .links a{
+    font-size: 10pt;
 }
 .fa-bars, .fa-xmark{
     cursor: pointer;
