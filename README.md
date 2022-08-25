@@ -1,5 +1,6 @@
 # JS-Calculator
-A simple JavaScript application that includes:
+![repository-open-graph-template](https://user-images.githubusercontent.com/90143413/186658413-648ecbbf-ab7f-4c30-9b1f-0ac06c738cfb.png)
+It is a simple JavaScript application that includes:
 - 🧮 a calculator,
 - 🌡 a temperature converter,
 - 💰 an currency converter.
@@ -21,4 +22,4 @@ A simple JavaScript application that includes:
   - This file contains JS soursce code of currency coverter application. This aplication is based on free exchange rate API: https://exchangerate.host/. User can choose between various currencies to convert.
 
 
-![repository-open-graph-template](https://user-images.githubusercontent.com/90143413/186658413-648ecbbf-ab7f-4c30-9b1f-0ac06c738cfb.png)
+
